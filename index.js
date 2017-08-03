@@ -2,7 +2,6 @@
  * Created by sabash ls on 01/11/16.
  **/
 
-
 /***  =============>  Sash Cash NPM Modules Dependency  <=============   ***/
 
 const express = require('express');
@@ -19,6 +18,7 @@ const https = require('https');
 const morgan = require('morgan');
 const logger = require('./lib/logger');
 const helmet = require('helmet');
+
 app.use(morgan('dev'));
 
 app.use(express.static(path.join(__dirname, './public')));

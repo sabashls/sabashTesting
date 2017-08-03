@@ -1,0 +1,98 @@
+ [
+    {
+      "location_name": "Kolkata",
+      "location_key": "KOL"
+    },
+    {
+      "location_name": "Mumbai",
+      "location_key": "MUM"
+    },
+    {
+      "location_name": "Delhi",
+      "location_key": "DEL"
+    },
+    {
+      "location_name": "Chennai",
+      "location_key": "CHE"
+    },
+    {
+      "location_name": "Maharashtra",
+      "location_key": "MAH"
+    },
+    {
+      "location_name": "Gujrat",
+      "location_key": "GUJ"
+    },
+    {
+      "location_name": "Andhra Pradesh",
+      "location_key": "AP"
+    },
+    {
+      "location_name": "Karnataka",
+      "location_key": "KK"
+    },
+    {
+      "location_name": "Tamilnadu",
+      "location_key": "TN"
+    },
+    {
+      "location_name": "Kerala",
+      "location_key": "KER"
+    },
+    {
+      "location_name": "Punjab",
+      "location_key": "PUN"
+    },
+    {
+      "location_name": "Haryana",
+      "location_key": "HAR"
+    },
+    {
+      "location_name": "Uttar Pradesh (West)",
+      "location_key": "UPW"
+    },
+    {
+      "location_name": "Uttar Pradesh (East)",
+      "location_key": "UPE"
+    },
+    {
+      "location_name": "Rajasthan",
+      "location_key": "RAJ"
+    },
+    {
+      "location_name": "Madhya Pradesh",
+      "location_key": "MP"
+    },
+    {
+      "location_name": "WestBengal & AN Island",
+      "location_key": "WB"
+    },
+    {
+      "location_name": "Himachal Pradesh",
+      "location_key": "HP"
+    },
+    {
+      "location_name": "Bihar & Jharkhand",
+      "location_key": "BIH"
+    },
+    {
+      "location_name": "Orissa",
+      "location_key": "ORI"
+    },
+    {
+      "location_name": "Assam",
+      "location_key": "ASM"
+    },
+    {
+      "location_name": "NorthEast",
+      "location_key": "NE"
+    },
+    {
+      "location_name": "J&K",
+      "location_key": "JK"
+    },
+    {
+      "location_name": "Uttaranchal",
+      "location_key": "UPW"
+    }
+  ]

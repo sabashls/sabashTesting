@@ -1,0 +1,282 @@
+[
+  {
+    "operator": "BSNL",
+    "jri_key": "BSNL",
+    "queen_key": "STV+BSNL",
+    "is_special": "1",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Airtel",
+    "jri_key": "Airtel",
+    "queen_key": "RR+Airtel",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Vodafone",
+    "jri_key": "Vodafone",
+    "queen_key": "RR+Vodafone",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Aircel",
+    "jri_key": "Aircel",
+    "queen_key": "RR+Aircel",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Idea",
+    "jri_key": "Idea",
+    "queen_key": "RR+Idea",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "DOCOMO",
+    "jri_key": "DOCOMO",
+    "queen_key": "STV+DOCOMO",
+    "is_special": "1",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Reliance CDMA",
+    "jri_key": "Reliance CDMA",
+    "queen_key": "RR+Reliance",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Reliance GSM",
+    "jri_key": "Reliance GSM",
+    "queen_key": "RR+Reliance",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "MTS",
+    "jri_key": "MTS",
+    "queen_key": "RR+MTS",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Telenor",
+    "jri_key": "Telenor",
+    "queen_key": "STV+Uninor",
+    "is_special": "1",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "MTNL",
+    "jri_key": "MTNL",
+    "queen_key": "MTNL",
+    "is_special": "1",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "TATA WALKY",
+    "jri_key": "TATA WALKY",
+    "queen_key": "TATA WALKY",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Tata Indicom",
+    "jri_key": "Tata Indicom",
+    "queen_key": "RR+TataIndicom",
+    "is_special": "1",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "T24",
+    "jri_key": "T24",
+    "queen_key": "T24",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Jio",
+    "jri_key": "Jio",
+    "queen_key": "Jio",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Videocon",
+    "jri_key": "Videocon",
+    "queen_key": "STV+Videocon",
+    "is_special": "1",
+    "minimum":"10",
+    "type": "prepaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "BSNL",
+    "jri_key": "BSNL",
+    "queen_key": "STV+BSNL",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "AIRTEL",
+    "jri_key": "Airtel",
+    "queen_key": "RR+Airtel",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Vodafone",
+    "jri_key": "Vodafone",
+    "queen_key": "RR+Vodafone",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Aircel",
+    "jri_key": "Aircel",
+    "queen_key": "RR+Aircel",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Idea",
+    "jri_key": "Idea",
+    "queen_key": "RR+Idea",
+    "is_special": "0",
+    "minimum":"50",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "DOCOMO",
+    "jri_key": "DOCOMO",
+    "queen_key": "STV+DOCOMO",
+    "is_special": "0",
+    "minimum":"100",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Reliance CDMA",
+    "jri_key": "Reliance CDMA",
+    "queen_key": "RR+Reliance",
+    "is_special": "0",
+    "minimum":"50",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Reliance GSM",
+    "jri_key": "Reliance GSM",
+    "queen_key": "RR+Reliance",
+    "is_special": "0",
+    "minimum":"50",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+
+  {
+    "operator": "Tata Indicom",
+    "jri_key": "Tata Indicom",
+    "queen_key": "RR+TataIndicom",
+    "is_special": "0",
+    "minimum":"100",
+    "type": "postpaid",
+    "max_length" : "10"
+  },
+  {
+    "operator": "Airtel TV DTH",
+    "jri_key": "Airtel TV DTH",
+    "queen_key": "DTH+AirtelDTH",
+    "is_special": "0",
+    "minimum":"100",
+    "type": "dth",
+    "max_length" : "10"
+  },
+  {
+    "operator": "RELIANCE BIG TV",
+    "jri_key": "RELIANCE BIG TV",
+    "queen_key": "DTH+RelianceBigTv",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "dth",
+    "max_length" : "12"
+  },
+  {
+    "operator": "DISH TV DTH",
+    "jri_key": "DISH TV DTH",
+    "queen_key": "DTH+DishTV",
+    "is_special": "0",
+    "minimum":"10",
+    "type": "dth",
+    "max_length" : "11"
+  },
+  {
+    "operator": "SUN DIRECT",
+    "jri_key": "SUN DIRECT",
+    "queen_key": "DTH+SunDirect",
+    "is_special": "0",
+    "minimum":"5",
+    "type": "dth",
+    "max_length" : "11"
+  },
+  {
+    "operator": "TATA SKY",
+    "jri_key": "TATA SKY",
+    "queen_key": "DTH+TataSky",
+    "is_special": "0",
+    "minimum":"8",
+    "type": "dth",
+    "max_length" : "10"
+  },
+  {
+    "operator": "VIDEOCON D2h",
+    "jri_key": "VIDEOCON D2h",
+    "queen_key": "DTH+VideoconD2H",
+    "is_special": "0",
+    "minimum":"50",
+    "type": "dth",
+    "max_length" : "30"
+  }
+]

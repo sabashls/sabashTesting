@@ -1,0 +1,2 @@
+{"message":"errors:","stack":"Error: test error\n    at /home/sabash/Desktop/Sashcash_API/android_api_sash_cash/services/user/user.js:87:15\n    at process._tickDomainCallback (internal/process/next_tick.js:135:7)","level":"error","timestamp":"2017-06-22T09:57:55.660Z"}
+{"message":"errors:","stack":"Error: test error\n    at /home/sabash/Desktop/Sashcash_API/android_api_sash_cash/services/user/user.js:87:15\n    at process._tickDomainCallback (internal/process/next_tick.js:135:7)","level":"error","timestamp":"2017-06-22T09:59:07.482Z"}

@@ -1,0 +1,58 @@
+{
+  "name": "sash-user-api",
+  "version": "2.0.0",
+  "description": "A RESTful API for the SashCash Mobile and Web Applications.",
+  "main": "index.js",
+  "dependencies": {
+    "asyn": "0.0.1",
+    "body-parser": "^1.15.2",
+    "connect-multiparty": "2.0.0",
+    "connect-redis": "^3.1.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "crypto": "0.0.3",
+    "curlrequest": "^1.0.0",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "fcm-push": "^1.1.2",
+    "helmet": "^3.6.1",
+    "js-md5": "^0.4.2",
+    "js-sha512": "^0.3.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.6.3",
+    "morgan": "^1.8.1",
+    "multiparty": "4.1.2",
+    "node-schedule": "^1.2.0",
+    "nodemailer": "^0.7.1",
+    "nodemon": "^1.11.0",
+    "randomstring": "^1.1.5",
+    "redis": "^2.6.2",
+    "request": "2.74.0",
+    "request-promise": "^4.1.1",
+    "simple-nexmo": "^2.2.1",
+    "socket.io": "^1.5.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "seed-operators": "node /seeds/operatorList.js",
+    "seed-all": "npm run seed-operators"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://sash_development@bitbucket.org/sash_development/sash_users_api.git"
+  },
+  "keywords": [
+    "SashCash",
+    "SashCash-User",
+    "Money-App"
+  ],
+  "author": {
+    "name": "Sabash Lakshmanan",
+    "email": "sabashl@sash.cash",
+    "url": "https://sash.cash/"
+  },
+  "license": "ISC",
+  "homepage": "git clone https://sash_development@bitbucket.org/sash_development/sash_users_api.git",
+  "private": true
+}

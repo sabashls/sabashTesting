@@ -18,13 +18,10 @@ const https = require('https');
 const morgan = require('morgan');
 const logger = require('./lib/logger');
 const helmet = require('helmet');
-
 app.use(morgan('dev'));
 
 app.use(express.static(path.join(__dirname, './public')));
-
 app.use(cors());
-
 app.use(helmet({frameguard: {action: 'deny'}}))
 
 app.use(bodyParser.json({ limit: '150mb' }));
